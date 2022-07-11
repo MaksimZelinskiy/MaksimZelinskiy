@@ -1,16 +1,13 @@
-### Hi there 👋
+![Header](https://github.com/MaksimZelinskiy/MaksimZelinskiy/blob/main/images/zelinskiy.png)
+# Hi there 👋  I'm Max 👨‍💻
 
-<!--
-**MaksimZelinskiy/MaksimZelinskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧙 I'm a beginner magic developer in Python
+### 🦾 My tech skills:
+  - Languages: Python, Go, Js; 
+  - Frameworks: Django, Django Rest Framework, Flask, Node.js;
+  - DataBase: Postgres, MongoDB, SQLite.
+  - Another: Docker, HTML/CSS, Git, Rest API, Linux, OOP, Bootstrap;
+### 🪐 Socials:
+  - Linkedin - 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
