@@ -1,4 +1,4 @@
-![Header](https://github.com/MaksimZelinskiy/MaksimZelinskiy/blob/main/images/zelinskiy.png)
+![Header](https://github.com/MaksimZelinskiy/MaksimZelinskiy/blob/main/images/magicode.png)
 # Hi there 👋  I'm Max 👨‍💻
 
 ### 🧙 I'm a beginner magic developer in Python
