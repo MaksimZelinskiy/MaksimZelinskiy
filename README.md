@@ -9,5 +9,5 @@
   - Another: Docker, HTML/CSS, Git, Rest API, Linux, OOP, Bootstrap;
 ### 🪐 Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=for-the-badge&logo=Linkedin&logoColor=007BB6)](https://www.linkedin.com/in/maksim-zelinskiy/)
-
+[![Twitter](https://img.shields.io/badge/-Twitter-ffffff?style=for-the-badge&logo=Twitter&logoColor=007BB6)](https://twitter.com/Zelinskiyy)
 
