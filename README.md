@@ -8,6 +8,6 @@
   - DataBase: Postgres, MongoDB, SQLite.
   - Another: Docker, HTML/CSS, Git, Rest API, Linux, OOP, Bootstrap;
 ### 🪐 Socials:
-  - Linkedin - 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=Linkedin&logoColor=007BB6)](https://www.linkedin.com/in/maksim-zelinskiy/)
 
 
