@@ -1,7 +1,7 @@
 ![Header](https://github.com/MaksimZelinskiy/MaksimZelinskiy/blob/main/images/magicode.png)
 # Hi there 👋  I'm Max 👨‍💻
 
-### 🧙 I'm a beginner magic developer in Python
+### 🧙 magic developer in Python
 ### 🦾 My tech skills:
   - Languages: Python, Go; 
   - Frameworks: FastAPI, Django, Django Rest Framework, Flask, Node.js;
